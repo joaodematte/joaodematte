@@ -1,3 +1,4 @@
+```ocaml
 (* ~/whoami.ml *)
 
 type person = {
@@ -19,3 +20,4 @@ let joaodematte = {
   site      = "https://joaodematte.com";
   x         = "https://x.com/joaodematte";
 }
+```
